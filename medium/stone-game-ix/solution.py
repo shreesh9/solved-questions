@@ -9,4 +9,4 @@ class Solution:
             return min(f[1], f[2]) >= 1
 
         return abs(f[1] - f[2]) >= 3
-        #3
+        #4
