@@ -17,7 +17,7 @@ Welcome to my personal LeetCode solutions repository! Every time I solve a probl
 
 ---
 
-Name: Shreesh Nalawade (shxeesh)
+dev: Shreesh Nalawade (shxeesh)
 🐙 GitHub: @shreesh9
 🌐 Linktree: linktr.ee/shreesh9
 ✉️ Email: shreeshnalawade9@gmail.com
