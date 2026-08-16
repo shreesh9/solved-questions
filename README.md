@@ -17,18 +17,6 @@ Welcome to my personal LeetCode solutions repository! Every time I solve a probl
 
 ---
 
-```text
-solved-questions/
-├── easy/
-│   └── two-sum/
-│       └── solution.py
-├── medium/
-│   └── stone-game-ix/
-│       └── solution.py
-└── hard/
-    └── ...
-```
-
 Name: Shreesh Nalawade (shxeesh)
 🐙 GitHub: @shreesh9
 🌐 Linktree: linktr.ee/shreesh9
